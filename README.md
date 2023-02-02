@@ -16,7 +16,7 @@
 2. *[sample-generated-source](sample-generated-source)* -- contains samples of automatically generated source code for the abs function
  * [extracted operation](sample-generated-source/extracted%20operation) -- contains the generated code snippet extracted from the TensorFlow repository
  * [regression generation](sample-generated-source/regression%20generation) - contains the code snippet that calculates a regression function for the ``abs'' operation.
- * [generated approximation function](sample-generated-source/generated%20approximation%20function) -- contains the generated approximation function by TAILOR
+ * [generated approximation function](sample-generated-source/generated%20approximation%20function) -- contains the generated approximation function by Seamstress
  * [generated approximation model](sample-generated-source/generated%20approximation%20model) -- contains two approximation models (abs_aprox). The *.pb is in the TensorFlow format. The *.tflite is the resulting conversion to TensorFlow Lite.
 3. *[images-n-graphs](images-n-graphs)* -- contains high-resolution versions of the graphs in the manuscript
  * [avg-allocation-time.pdf](images-n-graphs/avg-allocation-time.pdf) -- Graph containing the average allocation time for all operations
