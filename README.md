@@ -1,4 +1,4 @@
-## Reproducibility package of --> Automatic Function Approximation to Address Conversion Faults in Deep Learning Models for Mobile and IoT Devices
+## Reproducibility package of: Automatic Function Approximation to Address Conversion Faults in Deep Learning Models for Mobile and IoT Devices
 
 ### This reproducibility package the following folders.
 ```
@@ -12,7 +12,7 @@
 
 1. *[spreadsheets](spreadsheets)* -- contains two spreadsheets. 
  * [tensorflow-operations.xlsx](spreadsheets/tensorflow-operations.xlsx) -- contains the collected TensorFlow operations and if they are supported by the TensorFlow Lite converter.
- * [experimental-results.xlsx](spreadsheets/experimental-results.xlsx) -- contains all the data for the evaluation of TAILOR and its approximations.
+ * [experimental-results.xlsx](spreadsheets/experimental-results.xlsx) -- contains all the data for the evaluation of Seamstress and its approximations.
 2. *[sample-generated-source](sample-generated-source)* -- contains samples of automatically generated source code for the abs function
  * [extracted operation](sample-generated-source/extracted%20operation) -- contains the generated code snippet extracted from the TensorFlow repository
  * [regression generation](sample-generated-source/regression%20generation) - contains the code snippet that calculates a regression function for the ``abs'' operation.
